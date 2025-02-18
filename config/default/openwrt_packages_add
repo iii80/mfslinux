@@ -99,7 +99,7 @@ base/bnx2-firmware_20241110-r1_x86_64.ipk
 base/bnx2x-firmware_20241110-r1_x86_64.ipk
 packages/htop_3.3.0-r2_x86_64.ipk
 packages/nload_0.7.4-r1_x86_64.ipk
-packages/curl_8.10.1-r1_x86_64.ip
+packages/curl_8.10.1-r1_x86_64.ipk
 packages/libcurl4_8.10.1-r1_x86_64.ipk
 packages/ncdu_1.20-r1_x86_64.ipk
 packages/libparted_3.6-r1_x86_64.ipk
